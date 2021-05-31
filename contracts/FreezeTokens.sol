@@ -1,6 +1,5 @@
 pragma solidity ^0.8.4;
 // SPDX-License-Identifier: UNLICENSED
-
 // owner = 0x7ccd779fB7A0913fCBdb8b37DB812A57c9592632
 
 interface IBEP20 {
